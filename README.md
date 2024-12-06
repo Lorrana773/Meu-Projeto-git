@@ -2,6 +2,7 @@
 
 // Objetivo
 Desenvolver um aplicativo que ajude os usuários a gerenciar suas tarefas diárias.
+
 // Funcionalidades
 - Adicionar uma nova tarefa.
 - Listar todas as tarefas.
